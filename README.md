@@ -26,10 +26,10 @@ O projeto visa demonstrar conhecimentos em:
 - Modelagem de dados para sistemas de saúde.
 
 #### Diagrama Entidade-Relacionamento
-![Diagrama MER](diagramas/modelo_conceitual.png)
+![Diagrama MER](clinica-odontologica/diagramas/modelo_conceitual.png)
 
 #### Modelo Lógico
-![Modelo Lógico](images/modelo_logico.png)
+![Modelo Lógico](clinica-odontologicaimages/modelo_logico.png)
 
 ## Estrutura do Projeto
 A estrutura do projeto é organizada da seguinte forma:
@@ -87,7 +87,7 @@ cd clinica-odontologica
 
 
 #### Consultas e Manipulação de Dados
-** O arquivo queries.sql inclui exemplos de consultas, como: ** 
+O arquivo queries.sql inclui exemplos de consultas, como:
 
 - Listagem de agendamentos por paciente e dentista.
 - Total de faturamento por mês e ano.
