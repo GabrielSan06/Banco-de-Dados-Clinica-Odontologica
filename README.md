@@ -29,7 +29,7 @@ O projeto visa demonstrar conhecimentos em:
 ![Diagrama MER](clinica-odontologica/diagramas/modelo_conceitual.png)
 
 #### Modelo Lógico
-![Modelo Lógico](clinica-odontologicaimages/modelo_logico.png)
+![Modelo Lógico](clinica-odontologica/diagramas/modelo_logico.png)
 
 ## Estrutura do Projeto
 A estrutura do projeto é organizada da seguinte forma:
